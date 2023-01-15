@@ -1,0 +1,10 @@
+{
+    "extends": "@rocketseat/eslint-config/react"
+}
+
+// mostra os arquivos com arro de eslint - npx eslint src --ext .ts,.tsx
+// fixa todos os aruqivos d euma vez - npx eslint src --ext .ts,.tsx --fix
+
+// comando customizado no package.json
+// npm run lint
+// npm run lint --fix
